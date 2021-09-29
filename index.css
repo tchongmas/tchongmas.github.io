@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.main {
+  background-color: #000000;
+  background-image: linear-gradient(180deg, #2d3436, #000000, #2d3436);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}

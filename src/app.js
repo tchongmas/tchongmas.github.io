@@ -1,6 +1,11 @@
-// app.js
+// App.js
 
-ReactDOM.render(
-    <h1>Hello, world! from React</h1>,
-    document.getElementById('root')
+const App = () => {
+  return (
+    <div>
+      <h1>Hello World!</h1>
+    </div>
   );
+}
+  
+export default App;  
